@@ -30,7 +30,7 @@ No API key is required — OpenRouter's models/endpoints API is public.
 ## Install
 
 ```bash
-git clone <this-repo> opencode-openrouter-providers
+git clone https://github.com/Arnaud-Mat/opencode-openrouter-providers.git
 cd opencode-openrouter-providers
 ./install.sh
 ```
